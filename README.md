@@ -15,6 +15,11 @@ This project was an expansion on the original lane lines project that I did thro
 10. Polynomial fitting to model and determine curvature.  
 11. Drawing detected lane lines on each frame in the video.  
   
-- The code and visualizations for the advanced project are included in **P1.ipynb**. Techniques used in this file include:   
-1. 
-- The resulting video is in the 'output_videos' folder.
+- The code and visualizations for the original project are included in **P1.ipynb**. Techniques used in this file include:   
+1. Canny transform  
+2. Gaussian blur  
+3. Hough transform  
+4. K-means clustering (from sklearn)  
+
+
+- The resulting video from the advanced project is in the 'output_videos' folder. The resulting videos from the original project are in the 'test_videos_output' folder.
