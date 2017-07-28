@@ -22,4 +22,4 @@ This project was an expansion on the original lane lines project that I did thro
 4. K-means clustering (from sklearn)  
 
 
-- The resulting video from the advanced project is in the 'output_videos' folder. The resulting videos from the original project are in the 'test_videos_output' folder.
+- The resulting video from the advanced project is in the **'output_videos'** folder. The resulting videos from the original project are in the **'test_videos_output'** folder.
